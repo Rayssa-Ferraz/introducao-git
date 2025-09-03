@@ -1,0 +1,12 @@
+git init = cria repósitorio
+
+git remote add origin + link do GitHub
+
+git add . = adicionar todos os arquivos da pasta
+
+git commit -m "nome do commit" 
+
+git push origin main = envia os arquivos para o GitHub
+
+
+**Sempre que adicionar (git add .) fazer em seguida o commit e depois o git push**
