@@ -10,3 +10,10 @@ git push origin main = envia os arquivos para o GitHub
 
 
 **Sempre que adicionar (git add .) fazer em seguida o commit e depois o git push**
+
+
+**AGORA ESTAMOS NA BRANCH NOVA**
+
+git checkout -b (nome da branch) = cria uma nova branch
+
+git branch = mostra todas as branchs
